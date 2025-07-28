@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>"Babu Lake Babu Mahesh Babu"</h1>
+      <h1>"Hi Guys..!"</h1>
       
     </>
   )
